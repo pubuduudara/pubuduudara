@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pubudu Premathilaka</h1>
 <h3 align="center">Senior Software Engineer at Sysco LABS
 
----
-
-### 🔗 Links
-
-- 👨‍💻 All of my projects: 
-- 📝 Blog articles: 
-- 📫 Contact me: 
-- 📄 My CV: 
-
----
-
 ### 🛠️ Languages and Tools
 
 #### 📌 Programming Languages
